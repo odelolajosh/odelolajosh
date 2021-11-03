@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: Gotham;
+    src: url(../asset/font/GothamBook.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Gotham;
+    src: url(../asset/font/GothamMedium.ttf) local('Gotham');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Gotham;
+    src: url(../asset/font/GothamBold.ttf) local('Gotham');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: Basier;
+    src: url(../asset/font/basiercircle-regular.otf);
+}
+
+* {
+    font-family: Basier;
+}
