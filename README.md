@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odelolajosh" alt="odelolajosh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/otolamise" target="blank"><img src="https://img.shields.io/twitter/follow/otolamise?logo=twitter&style=for-the-badge" alt="otolamise" /></a> </p>
+<p align="left"> <a href="https://twitter.com/odelolajosh" target="blank"><img src="https://img.shields.io/twitter/follow/otolamise?logo=twitter&style=for-the-badge" alt="otolamise" /></a> </p>
 
 - 🔭 I’m currently working on [Zuri Chat](https://zuri.chat)
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/otolamise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="otolamise" height="30" width="40" /></a>
+<a href="https://twitter.com/odelolajosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="otolamise" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tolamise joshua odelola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolamise joshua odelola" height="30" width="40" /></a>
 </p>
 
