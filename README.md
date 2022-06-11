@@ -38,7 +38,7 @@
 
 <br>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=odelolajosh&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark" alt="odelolajosh"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odelolajosh&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark" alt="odelolajosh"/>
 </p>
 
 <!-- This section you create this variables that are used above -->
