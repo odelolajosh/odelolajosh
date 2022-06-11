@@ -31,14 +31,15 @@
 <br>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=odelolajosh&show_icons=true&locale=en&theme=onedark" alt="odelolajosh" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=odelolajosh&theme=onedark" alt="odelolajosh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odelolajosh&theme=onedark" alt="odelolajosh" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odelolajosh&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark" alt="odelolajosh"/>
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odelolajosh&theme=onedark" alt="odelolajosh" /></p> -->
 
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odelolajosh&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark" alt="odelolajosh"/>
-</p>
+</p> -->
 
 <!-- This section you create this variables that are used above -->
 [website]: https://odelolajosh.netlify.app/
