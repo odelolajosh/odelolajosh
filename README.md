@@ -36,7 +36,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odelolajosh&theme=onedark" alt="odelolajosh" /></p> -->
 
-<br>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odelolajosh&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark" alt="odelolajosh"/>
 </p>
