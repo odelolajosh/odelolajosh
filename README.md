@@ -1,12 +1,10 @@
-## Hi there, I'm Joshua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-<h3 align="center">I build more than imagination</h3>
+<h1 align="center">Hi there, I'm Joshua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
+<h3 align="center">Welcome to my humble abode</h3>
 
 - 😀 I am a software developer
-- 🌱 I’m currently improving my skills on **Web3.0 Development**
-- 👨‍💻 All of my projects are available at [https://odelolajosh.netlify.app/](https://odelolajosh.netlify.app/)
-- 💬 Ask me about **anything React, Typescript and Java**
-- 📫 How to reach me **oladapoodelola@gmail.com**
-- ⚡ Fun fact **I am a boy**
+- 👨‍💻 I'm fluent with many languages but I use mainly **Typescript**.
+- ⚡ I build more than imagination.
+- 📫 You can reach me at **oladapoodelola@gmail.com**. Let's discuss the next big thing. 
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
