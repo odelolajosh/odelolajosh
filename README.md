@@ -5,7 +5,7 @@ I'm a passionate Software Engineer. I love learning new things and building amaz
 
 - 👨‍💻 I'm currently working on projects with Typescript and Python.
 - ⚡ I build more than imagination.
-- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/odelola-joshua) and mail [oladapoodelola@gmail.com](mailto:oladapoodelola@gmail.com). Let's discuss the next big thing.
+- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/joshua-odelola/) and mail [oladapoodelola@gmail.com](mailto:oladapoodelola@gmail.com). Let's discuss the next big thing.
 - 😄 Pronouns: He/Him
 
 !["Profile Views"](https://komarev.com/ghpvc/?username=odelolajosh&label=Profile%20views&color=0e75b6&style=flat "Profile Views")
