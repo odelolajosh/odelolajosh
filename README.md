@@ -46,10 +46,6 @@ I'm a passionate Software Engineer. I love learning new things and building amaz
 
 !["My Github Streaks"](https://github-readme-streak-stats.herokuapp.com?user=odelolajosh&theme=darcula&hide_border=true&background=FFFFFF00 "My Github Streaks")
 
-***
-
-!["My Github Stats"](https://github-readme-stats.vercel.app/api?username=odelolajosh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000 "My Github Stats")
-
 <br>
 
 ## 🏆 GitHub Trophies
